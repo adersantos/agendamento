@@ -1,0 +1,25 @@
+﻿@model NetCoders.Agenda.UI.Web.Models.AgendaVM
+
+@{
+    ViewBag.Title = "Cancelar";
+    Layout = "~/Views/Shared/_LayoutPadrao.cshtml";
+}
+
+<h2>Cancelar</h2>
+
+<h3>Deseja cancelar agendamento?</h3>
+<div>
+    <h4>Agenda</h4>
+    <hr />
+    <dl class="dl-horizontal">
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Cancelar" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar", "Listar", "Agenda")
+        </div>
+    }
+</div>

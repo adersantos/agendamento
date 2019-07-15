@@ -1,0 +1,22 @@
+﻿@model NetCoders.Agenda.UI.Web.Models.ClienteVM
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_LayoutPadrao.cshtml";
+}
+
+<fieldset>
+    <legend>Detalhes do cliente</legend>
+
+    <div class="container">
+        <h3>@Model.Cliente.Nome <small>&raquo;@Model.Cliente.Nome</small></h3>
+        <h4>
+            @Model.Cliente.Sobrenome
+        </h4>
+        <p>
+            @Model.Cliente.Documento
+        </p>
+        <p>Cadastrado: <small> @Model.Cliente.Nome</small></p>
+        <hr />
+    </div>
+</fieldset>

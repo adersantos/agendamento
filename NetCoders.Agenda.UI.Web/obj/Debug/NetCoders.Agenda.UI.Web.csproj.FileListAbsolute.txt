@@ -1,0 +1,91 @@
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll.config
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csprojResolveAssemblyReference.cache
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.DataAccess.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\EntityFramework.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.DataAccess.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\EntityFramework.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csprojAssemblyReference.cache
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll.config
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\EntityFramework.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\EntityFramework.SqlServer.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\EntityFramework.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\EntityFramework.SqlServer.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csproj.CopyComplete
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll.config
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.UI.Web.pdb
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\EntityFramework.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\EntityFramework.SqlServer.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Business.pdb
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Model.pdb
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\EntityFramework.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\EntityFramework.SqlServer.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Helpers.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Mvc.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.Razor.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\System.Web.WebPages.Razor.xml
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\bin\NetCoders.Agenda.Repository.pdb
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csprojAssemblyReference.cache
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.csproj.CopyComplete
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.dll
+D:\Desenvolvimento\Agendamento\NetCoders.Agenda.UI.Web\obj\Debug\NetCoders.Agenda.UI.Web.pdb
