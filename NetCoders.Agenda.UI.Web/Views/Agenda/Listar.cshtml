@@ -25,7 +25,7 @@
         }
         else
         {
-            @foreach (var evento in Model.Agendas)
+            foreach (var evento in Model.Agendas)
             {
                 <h3>@evento.Titulo <small>&raquo; @evento.Data.ToLongDateString()</small></h3>
                 <p>
