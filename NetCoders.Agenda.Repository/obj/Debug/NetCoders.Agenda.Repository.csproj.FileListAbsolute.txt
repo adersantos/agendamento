@@ -31,3 +31,13 @@ D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.A
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.csproj.CopyComplete
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.dll
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.pdb
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\bin\Debug\NetCoders.Agenda.Repository.dll
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\bin\Debug\NetCoders.Agenda.Repository.pdb
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\bin\Debug\NetCoders.Agenda.Model.dll
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\bin\Debug\NetCoders.Agenda.Model.pdb
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\bin\Debug\EntityFramework.xml
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.csprojAssemblyReference.cache
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.csproj.CoreCompileInputs.cache
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.csproj.CopyComplete
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.dll
+D:\CursoGit\agendamento\NetCoders.Agenda.Repository\obj\Debug\NetCoders.Agenda.Repository.pdb

@@ -13,3 +13,9 @@ D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.csproj.CoreCompileInputs.cache
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.dll
 D:\Desenvolvimento\Agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.pdb
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\bin\Debug\NetCoders.Agenda.Model.dll
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\bin\Debug\NetCoders.Agenda.Model.pdb
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.csprojAssemblyReference.cache
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.csproj.CoreCompileInputs.cache
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.dll
+D:\CursoGit\agendamento\NetCoders.Agenda.Model\obj\Debug\NetCoders.Agenda.Model.pdb
