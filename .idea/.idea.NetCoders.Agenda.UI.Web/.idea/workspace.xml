@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f793c3-ca3b-4704-98fa-206fff9345e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Business.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Repository.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/bin/Debug/NetCoders.Agenda.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Business/obj/Debug/NetCoders.Agenda.Business.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Model/bin/Debug/NetCoders.Agenda.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Model/bin/Debug/NetCoders.Agenda.Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Model/bin/Debug/NetCoders.Agenda.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Model/bin/Debug/NetCoders.Agenda.Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Model/obj/Debug/NetCoders.Agenda.Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Repository.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/bin/Debug/NetCoders.Agenda.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.Repository/obj/Debug/NetCoders.Agenda.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Business.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Business.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Model.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Model.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Repository.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.Repository.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.UI.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.UI.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.UI.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/bin/NetCoders.Agenda.UI.Web.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/obj/Debug/NetCoders.Agenda.UI.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,42 +16,33 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="409">
+              <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
               <folding>
-                <marker date="1563220134823" expanded="false" signature="6:91" ph="..." />
-                <marker date="1563220134823" expanded="true" signature="138:1190" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="188:1188" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="322:538" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="621:677" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="713:770" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="809:856" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="900:1013" ph="{...}" />
-                <marker date="1563220134823" expanded="true" signature="1068:1182" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="6:117" ph="..." />
+                <marker date="1563383954213" expanded="true" signature="164:1395" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="214:1393" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="348:564" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="647:703" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="739:796" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="835:882" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="926:1039" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="1094:1208" ph="{...}" />
+                <marker date="1563383954213" expanded="true" signature="1271:1387" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/ClienteBUS.cs">
+        <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="361">
+              <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
               <folding>
-                <marker date="1563220134724" expanded="false" signature="6:112" ph="..." />
-                <marker date="1563220134724" expanded="true" signature="148:1497" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="178:1495" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="312:376" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="424:771" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="450:594" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="624:761" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="820:1126" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="846:919" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="949:1115" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="1168:1489" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="1194:1269" ph="{...}" />
-                <marker date="1563220134724" expanded="true" signature="1299:1477" ph="{...}" />
+                <marker date="1563383954203" expanded="true" signature="55:141" ph="@..." />
+                <marker date="1563383954203" expanded="true" signature="696:1400" ph="@..." />
+                <marker date="1563383954203" expanded="true" signature="725:1400" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -103,6 +57,8 @@
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Models/ClienteVM.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Model/Enuns.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Model/ClienteMOD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Detalhes.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/ClienteBUS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/AgendaBUS.cs" root0="FORCE_HIGHLIGHTING" />
@@ -117,6 +73,8 @@
         <option value="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Models/ClienteVM.cs" />
         <option value="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml" />
         <option value="$PROJECT_DIR$/NetCoders.Agenda.Model/ClienteMOD.cs" />
+        <option value="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" />
+        <option value="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" />
       </list>
     </option>
   </component>
@@ -243,7 +201,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7649000" />
+    <option name="totallyTimeSpent" value="9570000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +216,7 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32977587" />
@@ -276,12 +234,12 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32977587" />
       <window_info anchor="bottom" id="REST Client" order="13" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3244397" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3244397" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.2301545" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
@@ -341,18 +299,6 @@
             <marker date="1563200939227" expanded="true" signature="449:516" ph="{...}" />
             <marker date="1563200939227" expanded="true" signature="529:930" ph="{...}" />
             <marker date="1563200939227" expanded="true" signature="589:920" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <marker date="1560435457594" expanded="true" signature="49:138" ph="@..." />
-            <marker date="1560435457594" expanded="true" signature="160:2239" ph="@..." />
-            <marker date="1560435457594" expanded="true" signature="187:2239" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -432,20 +378,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <marker date="1563220134843" expanded="true" signature="49:138" ph="@..." />
+            <marker date="1563220134843" expanded="true" signature="160:2239" ph="@..." />
+            <marker date="1563220134843" expanded="true" signature="187:2239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+          <folding>
+            <marker date="1563383954203" expanded="true" signature="55:141" ph="@..." />
+            <marker date="1563383954203" expanded="true" signature="696:1400" ph="@..." />
+            <marker date="1563383954203" expanded="true" signature="725:1400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Detalhes.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563220134843" expanded="true" signature="49:137" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="409">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
           <folding>
-            <marker date="1563220134823" expanded="false" signature="6:91" ph="..." />
-            <marker date="1563220134823" expanded="true" signature="138:1190" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="188:1188" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="322:538" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="621:677" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="713:770" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="809:856" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="900:1013" ph="{...}" />
-            <marker date="1563220134823" expanded="true" signature="1068:1182" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="6:117" ph="..." />
+            <marker date="1563383954213" expanded="true" signature="164:1395" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="214:1393" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="348:564" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="647:703" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="739:796" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="835:882" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="926:1039" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="1094:1208" ph="{...}" />
+            <marker date="1563383954213" expanded="true" signature="1271:1387" ph="{...}" />
           </folding>
         </state>
       </provider>

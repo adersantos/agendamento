@@ -1,4 +1,5 @@
-﻿using NetCoders.Aenda.Business;
+﻿using System.Data.Entity;
+using NetCoders.Aenda.Business;
 using NetCoders.Agenda.UI.Web.Models;
 using System.Web.Mvc;
 
@@ -42,6 +43,12 @@ namespace NetCoders.Agenda.UI.Web.Controllers
         public ActionResult Inserir(ClienteVM _model)
         {
             business_.Inserir(_model.Cliente);
+            return RedirectToAction("Listar");
+        }
+        
+        public ActionResult Excluir(ClienteVM _model)
+        {
+            business_.Buscar(_model.Cliente.Id);
             return RedirectToAction("Listar");
         }
     }
