@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f793c3-ca3b-4704-98fa-206fff9345e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            <state relative-caret-position="233">
+              <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
               <folding>
                 <marker date="1563383954213" expanded="true" signature="6:117" ph="..." />
                 <marker date="1563383954213" expanded="true" signature="164:1395" ph="{...}" />
@@ -34,11 +33,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/AgendaController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <marker date="1563220134822" expanded="false" signature="6:207" ph="..." />
+                <marker date="1563220134822" expanded="true" signature="254:1465" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="303:1463" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="434:647" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="730:786" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="822:879" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="918:965" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="1020:1134" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="1178:1290" ph="{...}" />
+                <marker date="1563220134822" expanded="true" signature="1344:1457" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+            <state relative-caret-position="800">
+              <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
               <folding>
                 <marker date="1563383954203" expanded="true" signature="55:141" ph="@..." />
                 <marker date="1563383954203" expanded="true" signature="696:1400" ph="@..." />
@@ -63,6 +83,7 @@
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/AgendaBUS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Agenda/Listar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/AgendaController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Repository/ClienteREP.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -91,18 +112,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="NetCoders.Agenda.UI.Web" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="NetCoders.Agenda.UI.Web" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="NetCoders.Agenda.Model" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
@@ -121,6 +136,7 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,11 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563200877144</updated>
       <workItem from="1563200882952" duration="735000" />
+      <workItem from="1563387750613" duration="423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9570000" />
+    <option name="totallyTimeSpent" value="11994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,10 +233,9 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25519446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
@@ -236,6 +252,7 @@
       <window_info anchor="bottom" id="REST Client" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3244397" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -390,18 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="50" column="59" lean-forward="true" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
-          <folding>
-            <marker date="1563383954203" expanded="true" signature="55:141" ph="@..." />
-            <marker date="1563383954203" expanded="true" signature="696:1400" ph="@..." />
-            <marker date="1563383954203" expanded="true" signature="725:1400" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Detalhes.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -413,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        <state relative-caret-position="233">
+          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
           <folding>
             <marker date="1563383954213" expanded="true" signature="6:117" ph="..." />
             <marker date="1563383954213" expanded="true" signature="164:1395" ph="{...}" />
@@ -426,6 +431,37 @@
             <marker date="1563383954213" expanded="true" signature="926:1039" ph="{...}" />
             <marker date="1563383954213" expanded="true" signature="1094:1208" ph="{...}" />
             <marker date="1563383954213" expanded="true" signature="1271:1387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Listar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
+          <folding>
+            <marker date="1563383954203" expanded="true" signature="55:141" ph="@..." />
+            <marker date="1563383954203" expanded="true" signature="696:1400" ph="@..." />
+            <marker date="1563383954203" expanded="true" signature="725:1400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/AgendaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1563220134822" expanded="false" signature="6:207" ph="..." />
+            <marker date="1563220134822" expanded="true" signature="254:1465" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="303:1463" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="434:647" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="730:786" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="822:879" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="918:965" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="1020:1134" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="1178:1290" ph="{...}" />
+            <marker date="1563220134822" expanded="true" signature="1344:1457" ph="{...}" />
           </folding>
         </state>
       </provider>
