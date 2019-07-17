@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f793c3-ca3b-4704-98fa-206fff9345e3" name="Default Changelist" comment="" />
+    <list default="true" id="34f793c3-ca3b-4704-98fa-206fff9345e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NetCoders.Agenda.UI.Web/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+            <state relative-caret-position="96">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding>
                 <marker date="1563220134823" expanded="false" signature="6:91" ph="..." />
                 <marker date="1563220134823" expanded="true" signature="138:1190" ph="{...}" />
@@ -30,6 +32,49 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/ClienteBUS.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <marker date="1563220134724" expanded="false" signature="6:112" ph="..." />
+                <marker date="1563220134724" expanded="true" signature="148:1497" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="178:1495" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="312:376" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="424:771" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="450:594" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="624:761" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="820:1126" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="846:919" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="949:1115" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="1168:1489" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="1194:1269" ph="{...}" />
+                <marker date="1563220134724" expanded="true" signature="1299:1477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.Repository/ClienteREP.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <marker date="1563220134771" expanded="false" signature="6:82" ph="..." />
+                <marker date="1563220134771" expanded="true" signature="121:1157" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="151:1155" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="253:632" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="319:579" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="681:1018" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="776:1006" ph="{...}" />
+                <marker date="1563220134771" expanded="true" signature="1060:1149" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -38,10 +83,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Models/ClienteVM.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Model/ClienteMOD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/ClienteBUS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Cliente/Cadastrar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/AgendaBUS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Views/Agenda/Listar.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetCoders.Agenda.Repository/ClienteREP.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,7 +194,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3845000" />
+    <option name="totallyTimeSpent" value="4650000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,7 +206,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
@@ -285,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.UI.Web/Controllers/ClienteController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+        <state relative-caret-position="96">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <marker date="1563220134823" expanded="false" signature="6:91" ph="..." />
             <marker date="1563220134823" expanded="true" signature="138:1190" ph="{...}" />
@@ -297,6 +344,45 @@
             <marker date="1563220134823" expanded="true" signature="809:856" ph="{...}" />
             <marker date="1563220134823" expanded="true" signature="900:1013" ph="{...}" />
             <marker date="1563220134823" expanded="true" signature="1068:1182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.Business/ClienteBUS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <marker date="1563220134724" expanded="false" signature="6:112" ph="..." />
+            <marker date="1563220134724" expanded="true" signature="148:1497" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="178:1495" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="312:376" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="424:771" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="450:594" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="624:761" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="820:1126" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="846:919" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="949:1115" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="1168:1489" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="1194:1269" ph="{...}" />
+            <marker date="1563220134724" expanded="true" signature="1299:1477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NetCoders.Agenda.Repository/ClienteREP.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1563220134771" expanded="false" signature="6:82" ph="..." />
+            <marker date="1563220134771" expanded="true" signature="121:1157" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="151:1155" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="253:632" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="319:579" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="681:1018" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="776:1006" ph="{...}" />
+            <marker date="1563220134771" expanded="true" signature="1060:1149" ph="{...}" />
           </folding>
         </state>
       </provider>
