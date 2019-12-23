@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using NetCoders.Agenda.Model;
+﻿using NetCoders.Agenda.Business;
 using NetCoders.Agenda.UI.Web.Models;
-using NetCoders.Agenda.Business;
+using System.Web.Mvc;
 
 namespace NetCoders.Agenda.UI.Web.Controllers
 {
@@ -27,7 +22,12 @@ namespace NetCoders.Agenda.UI.Web.Controllers
             TempData[tipo_] = msg_;
         }
 
-        public ViewResult Listar()
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult Listar()
         {
             return View(_viewModel);
         }

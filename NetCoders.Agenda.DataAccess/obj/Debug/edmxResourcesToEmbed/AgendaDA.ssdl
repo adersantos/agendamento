@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AGENDAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="T_AG_AGENDA">
+    <Key>
+      <PropertyRef Name="ID_AGENDA" />
+    </Key>
+    <Property Name="ID_AGENDA" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TT_AGENDA" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DS_SIMPLES" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="DS_COMPLETA" Type="varchar" MaxLength="1500" Nullable="false" />
+    <Property Name="DT_AGENDA" Type="date" Nullable="false" />
+    <Property Name="DT_INSERIDO" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AGENDAModelStoreContainer">
+    <EntitySet Name="T_AG_AGENDA" EntityType="Self.T_AG_AGENDA" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

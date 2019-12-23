@@ -21,9 +21,9 @@ namespace NetCoders.Agenda.Repository
             {
                 Codigo = 1,
                 Cliente = 1,
-                Titulo = "",
-                DescricaoSimples = "",
-                DescricaoCompleta = "",
+                Titulo = "ABCD",
+                DescricaoSimples = "ABCDescrição simples",
+                DescricaoCompleta = "ABCDescrição Completa",
                 Data = DateTime.Now,
                 Gravado = DateTime.Now,
                 Status = string.Empty

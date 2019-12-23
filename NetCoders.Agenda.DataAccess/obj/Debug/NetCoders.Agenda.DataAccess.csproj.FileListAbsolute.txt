@@ -1,0 +1,17 @@
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.dll.config
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.pdb
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\bin\Debug\EntityFramework.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\bin\Debug\EntityFramework.xml
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.dll
+D:\.NET Projects\Demo\NetCoders.Agenda.UI.Web\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.dll.config
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\bin\Debug\NetCoders.Agenda.DataAccess.pdb
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\bin\Debug\EntityFramework.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\bin\Debug\EntityFramework.xml
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.csprojAssemblyReference.cache
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.csproj.CopyComplete
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.dll
+D:\Desenvolvimento\C#\NetCoders.Agenda.DataAccess\obj\Debug\NetCoders.Agenda.DataAccess.pdb

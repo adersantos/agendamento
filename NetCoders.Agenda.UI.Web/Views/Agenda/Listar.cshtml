@@ -19,15 +19,15 @@
     <legend>Sua Agenda</legend>
 
     <div class="container">
-        @if (Model.Agendas.Count() == 0)
+        @if (@Model.Agendas.Count() == 0)
         {
             <h3>Nenhum evento encontrado.</h3>
         }
         else
         {
-            @foreach (var evento in Model.Agendas)
+            foreach (var evento in @Model.Agendas)
             {
-                <h3>@evento.Titulo <small>&raquo; @evento.Data.ToLongDateString()</small></h3>
+                <h3>@evento.Titulo <small>&raquo; @evento.Data</small></h3>
                 <p>
                     @evento.DescricaoSimples
                 </p>
