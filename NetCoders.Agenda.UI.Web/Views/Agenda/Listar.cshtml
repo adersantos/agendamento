@@ -19,15 +19,25 @@
     <legend>Sua Agenda</legend>
 
     <div class="container">
+<<<<<<< HEAD
         @if (@Model.Agendas.Count() == 0)
+=======
+        @if (Model.Agendas.Count() == 0)
+>>>>>>> 199b448c761e984def3565897bfc271d2d9a1f5a
         {
             <h3>Nenhum evento encontrado.</h3>
         }
         else
         {
+<<<<<<< HEAD
             foreach (var evento in @Model.Agendas)
             {
                 <h3>@evento.Titulo <small>&raquo; @evento.Data</small></h3>
+=======
+            foreach (var evento in Model.Agendas)
+            {
+                <h3>@evento.Titulo <small>&raquo; @evento.Data.ToLongDateString()</small></h3>
+>>>>>>> 199b448c761e984def3565897bfc271d2d9a1f5a
                 <p>
                     @evento.DescricaoSimples
                 </p>

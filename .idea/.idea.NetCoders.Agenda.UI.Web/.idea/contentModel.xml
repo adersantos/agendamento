@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ader.santos\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ader.santos\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_NetCoders.Agenda.UI.Web.128489878.00" t="ExcludeRecursive" />
+    <e p="D:\CursoGit\agendamento" t="IncludeFlat">
+      <e p="NetCoders.Agenda.Business" t="IncludeRecursive">
+        <e p="AgendaBUS.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClienteBUS.cs" t="Include" />
+        <e p="NetCoders.Agenda.Business.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NetCoders.Agenda.Model" t="IncludeRecursive">
+        <e p="AgendaMOD.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClienteMOD.cs" t="Include" />
+        <e p="EnumStatus.cs" t="Include" />
+        <e p="Enuns.cs" t="Include" />
+        <e p="NetCoders.Agenda.Model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NetCoders.Agenda.Repository" t="IncludeRecursive">
+        <e p="AgendaREP.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClienteREP.cs" t="Include" />
+        <e p="NetCoders.Agenda.Repository.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NetCoders.Agenda.UI.Web" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="RouteConfig.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="imagens" t="Include" />
+          <e p="PagedList.css" t="Include" />
+          <e p="themes" t="Include">
+            <e p="base" t="Include">
+              <e p="images" t="Include">
+                <e p="animated-overlay.gif" t="Include" />
+                <e p="ui-bg_flat_0_aaaaaa_40x100.png" t="Include" />
+                <e p="ui-bg_flat_75_ffffff_40x100.png" t="Include" />
+                <e p="ui-bg_glass_55_fbf9ee_1x400.png" t="Include" />
+                <e p="ui-bg_glass_65_ffffff_1x400.png" t="Include" />
+                <e p="ui-bg_glass_75_dadada_1x400.png" t="Include" />
+                <e p="ui-bg_glass_75_e6e6e6_1x400.png" t="Include" />
+                <e p="ui-bg_glass_95_fef1ec_1x400.png" t="Include" />
+                <e p="ui-bg_highlight-soft_75_cccccc_1x100.png" t="Include" />
+                <e p="ui-icons_222222_256x240.png" t="Include" />
+                <e p="ui-icons_2e83ff_256x240.png" t="Include" />
+                <e p="ui-icons_454545_256x240.png" t="Include" />
+                <e p="ui-icons_888888_256x240.png" t="Include" />
+                <e p="ui-icons_cd0a0a_256x240.png" t="Include" />
+              </e>
+              <e p="jquery-ui.css" t="Include" />
+              <e p="jquery.ui.accordion.css" t="Include" />
+              <e p="jquery.ui.all.css" t="Include" />
+              <e p="jquery.ui.autocomplete.css" t="Include" />
+              <e p="jquery.ui.base.css" t="Include" />
+              <e p="jquery.ui.button.css" t="Include" />
+              <e p="jquery.ui.core.css" t="Include" />
+              <e p="jquery.ui.datepicker.css" t="Include" />
+              <e p="jquery.ui.dialog.css" t="Include" />
+              <e p="jquery.ui.menu.css" t="Include" />
+              <e p="jquery.ui.progressbar.css" t="Include" />
+              <e p="jquery.ui.resizable.css" t="Include" />
+              <e p="jquery.ui.selectable.css" t="Include" />
+              <e p="jquery.ui.slider.css" t="Include" />
+              <e p="jquery.ui.spinner.css" t="Include" />
+              <e p="jquery.ui.tabs.css" t="Include" />
+              <e p="jquery.ui.theme.css" t="Include" />
+              <e p="jquery.ui.tooltip.css" t="Include" />
+              <e p="minified" t="Include">
+                <e p="images" t="Include">
+                  <e p="animated-overlay.gif" t="Include" />
+                  <e p="ui-bg_flat_0_aaaaaa_40x100.png" t="Include" />
+                  <e p="ui-bg_flat_75_ffffff_40x100.png" t="Include" />
+                  <e p="ui-bg_glass_55_fbf9ee_1x400.png" t="Include" />
+                  <e p="ui-bg_glass_65_ffffff_1x400.png" t="Include" />
+                  <e p="ui-bg_glass_75_dadada_1x400.png" t="Include" />
+                  <e p="ui-bg_glass_75_e6e6e6_1x400.png" t="Include" />
+                  <e p="ui-bg_glass_95_fef1ec_1x400.png" t="Include" />
+                  <e p="ui-bg_highlight-soft_75_cccccc_1x100.png" t="Include" />
+                  <e p="ui-icons_222222_256x240.png" t="Include" />
+                  <e p="ui-icons_2e83ff_256x240.png" t="Include" />
+                  <e p="ui-icons_454545_256x240.png" t="Include" />
+                  <e p="ui-icons_888888_256x240.png" t="Include" />
+                  <e p="ui-icons_cd0a0a_256x240.png" t="Include" />
+                </e>
+                <e p="jquery-ui.min.css" t="Include" />
+                <e p="jquery.ui.accordion.min.css" t="Include" />
+                <e p="jquery.ui.autocomplete.min.css" t="Include" />
+                <e p="jquery.ui.button.min.css" t="Include" />
+                <e p="jquery.ui.core.min.css" t="Include" />
+                <e p="jquery.ui.datepicker.min.css" t="Include" />
+                <e p="jquery.ui.dialog.min.css" t="Include" />
+                <e p="jquery.ui.menu.min.css" t="Include" />
+                <e p="jquery.ui.progressbar.min.css" t="Include" />
+                <e p="jquery.ui.resizable.min.css" t="Include" />
+                <e p="jquery.ui.selectable.min.css" t="Include" />
+                <e p="jquery.ui.slider.min.css" t="Include" />
+                <e p="jquery.ui.spinner.min.css" t="Include" />
+                <e p="jquery.ui.tabs.min.css" t="Include" />
+                <e p="jquery.ui.theme.min.css" t="Include" />
+                <e p="jquery.ui.tooltip.min.css" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AgendaController.cs" t="Include" />
+          <e p="ClienteController.cs" t="Include" />
+        </e>
+        <e p="fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="AgendaVM.cs" t="Include" />
+          <e p="ClienteVM.cs" t="Include" />
+        </e>
+        <e p="NetCoders.Agenda.UI.Web.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="jquery-1.9.1.intellisense.js" t="Include" />
+          <e p="jquery-1.9.1.js" t="Include" />
+          <e p="jquery-1.9.1.min.js" t="Include" />
+          <e p="jquery-1.9.1.min.map" t="Include" />
+          <e p="jquery-ui-1.10.3.js" t="Include" />
+          <e p="jquery-ui-1.10.3.min.js" t="Include" />
+          <e p="jquery.validate-vsdoc.js" t="Include" />
+          <e p="jquery.validate.js" t="Include" />
+          <e p="jquery.validate.min.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="Agenda" t="Include">
+            <e p="Cadastrar.cshtml" t="Include" />
+            <e p="Cancelar.cshtml" t="Include" />
+            <e p="Detalhes.cshtml" t="Include" />
+            <e p="Listar.cshtml" t="Include" />
+          </e>
+          <e p="Cliente" t="Include">
+            <e p="Cadastrar.cshtml" t="Include" />
+            <e p="Detalhes.cshtml" t="Include" />
+            <e p="Listar.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_LayoutPadrao.cshtml" t="Include" />
+            <e p="_PartialMenu.cshtml" t="Include" />
+            <e p="_PartialMsgErro.cshtml" t="Include" />
+            <e p="_PartialMsgSucesso.cshtml" t="Include" />
+            <e p="_PartialRodape.cshtml" t="Include" />
+          </e>
+          <e p="web.config" t="Include" />
+        </e>
+        <e p="web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="NetCoders.Agenda.UI.Web.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

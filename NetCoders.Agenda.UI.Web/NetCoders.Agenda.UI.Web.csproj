@@ -206,7 +206,10 @@
     <Content Include="Views\Cliente\Cadastrar.cshtml" />
     <Content Include="Views\Cliente\Detalhes.cshtml" />
     <Content Include="Views\Agenda\Cancelar.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Agenda\Home.cshtml" />
+=======
+>>>>>>> 199b448c761e984def3565897bfc271d2d9a1f5a
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

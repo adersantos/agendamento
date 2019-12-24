@@ -16,7 +16,11 @@ namespace NetCoders.Agenda.UI.Web
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
+<<<<<<< HEAD
                 defaults: new { controller = "Agenda", action = "Index", id = UrlParameter.Optional }
+=======
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+>>>>>>> 199b448c761e984def3565897bfc271d2d9a1f5a
             );
         }
     }
