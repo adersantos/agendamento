@@ -20,7 +20,6 @@ namespace NetCoders.Agenda.Model
         [Required(ErrorMessage = "Informe o número do documento.")]
         public int Documento { get; set; }
 
-
         public string Endereco { get; set; }
     }
 }
